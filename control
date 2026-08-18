@@ -1,0 +1,10 @@
+Package: com.meo.qqlite
+Name: QQLite
+Version: 0.1-1
+Description: 自用。
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate
+Priority: optional
+Maintainer: meo
+Author: meo
+Architecture: iphoneos-arm
