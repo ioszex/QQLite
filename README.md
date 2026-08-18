@@ -18,7 +18,7 @@
 | 文件 | 作用 |
 | --- | --- |
 | `QQTweakDemo.xm` | Hook `QQNewSettingsViewProvider`，插入入口行并绑定跳转 |
-| `QQTweakAntiRecall.xm` | 防止撤回不完美` |
+| `QQTweakAntiRecall.xm` | 防止撤回不完美 |
 | `QQTweakQUI.h` | QQ私有UI组件（QUIKit）的接口声明，全部用 `@protocol` 声明 |
 | `QQTweakListBuilder.h/.m` | 把自己的行/分组模型翻译成 `QUIListSectionModel` / `QUIListSingleLineConfig` |
 | `QQTweakSettingsViewController.h/.m` | 二级设置页面本体：模型定义、导航栏、跳转入口 |
